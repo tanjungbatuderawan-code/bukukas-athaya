@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.BukuKas" parent="Theme.AppCompat.DayNight.NoActionBar" />
+</resources>
